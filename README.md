@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Murygin Dmitry @Muryginds
-- 🌱 I’m currently learning Java programming
-<!----
-💞️ I’m looking to collaborate on ...
---->
-- 📫 How to reach me:
+- Hi, I’m Murygin Dmitry @Muryginds
+- I’m currently learning Java programming
+- How to reach me:
+
       - muryginds@gmail.com
       - muryginds @Telegram
 
