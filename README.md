@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muryginds
+- 👋 Hi, I’m Murygin Dmitry @Muryginds
 - 🌱 I’m currently learning Java programming
 <!----
 💞️ I’m looking to collaborate on ...
