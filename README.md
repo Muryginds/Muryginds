@@ -1,5 +1,5 @@
 - Hi, I’m Murygin Dmitry @Muryginds
-- I’m currently learning programming on Java
+- Inspired with Java 
 - How to reach me:
 
       - muryginds@gmail.com
